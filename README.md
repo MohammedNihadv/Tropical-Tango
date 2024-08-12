@@ -23,4 +23,4 @@
 ![App UI](.png)
 ![App UI](.png)
 ![App UI](.png)
-![Preview](/video.gif)
+![Preview](TropicalTango.mp4)
