@@ -22,4 +22,3 @@
 
 ![App UI](ui/figma.jpg)
 ![App UI](ui/app_ui.png)
-![Preview](ui/Untitled video.gif)
