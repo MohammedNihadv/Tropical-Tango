@@ -1,8 +1,6 @@
-# Flutter Grocery App Template
+# Tropical Tango
 
-## [Watch Video intro](https://youtu.be/-RjEULM8a4w)
-
-This Flutter app template is designed for building various e-commerce apps but mostly focuses on grocery and vegetable stores. It includes a range of screens 👇
+"Elevate your dining experience with Tropical Tango. Whether you're craving a quick snack or planning a feast with friends, our app connects you to our best  eateries with just a few taps. Discover new flavors, enjoy hassle-free ordering, and let Tropical Tango make every meal memorable."
 
 - **Splash Screen:** A welcoming first view.
 - **Onboarding:** Guides users through the app’s features.
@@ -22,8 +20,7 @@ This Flutter app template is designed for building various e-commerce apps but m
 - **Offers Page:** Special deals and discounts.
 - **Order Status Page:** Track order progress.
 
-![Preview](/gif.gif)
-
-![App UI](/ui.png)
-![App UI](/g_0.png)
-![App UI](/g_1.png)
+![App UI](.png)
+![App UI](.png)
+![App UI](.png)
+![Preview](/video.gif)
