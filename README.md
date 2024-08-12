@@ -22,4 +22,4 @@
 
 ![App UI](ui/figma.jpg)
 ![App UI](ui/app_ui.png)
-![Preview](TropicalTango.gif)
+![Preview](ui/Untitled video.gif)
