@@ -20,7 +20,6 @@
 - **Offers Page:** Special deals and discounts.
 - **Order Status Page:** Track order progress.
 
-![App UI](ui/pic_1.png)
-![App UI](ui/pic_2.png)
-![App UI](ui/pic_3.png)
+![App UI](ui/figma.jpg)
+![App UI](ui/app_ui.png)
 ![Preview](TropicalTango.gif)
